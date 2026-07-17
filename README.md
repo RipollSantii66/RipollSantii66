@@ -34,7 +34,7 @@ I'm an **Information Systems Engineering** student at the **National Technologic
 
 What sets me apart is that I care about the *entire* lifecycle of a system, not only the code. I enjoy sitting on both sides of the table: **understanding the business problem, gathering requirements and modeling processes** as an analyst, and then **designing the database and building the application** as a developer. That dual perspective helps me create solutions that are technically solid *and* actually solve the real need.
 
-Right now I'm building **full-stack web applications** — from responsive front-ends with **JavaScript, HTML &amp; CSS** to **REST APIs on Node.js / Express** and **.NET / C#**, backed by relational databases through ORMs like **Sequelize** and **Entity Framework**.
+Right now I'm building **full-stack web applications** — from **React** single-page front-ends and responsive UIs with **JavaScript, HTML &amp; CSS** to **REST APIs on Node.js / Express** and **.NET / C#**, backed by relational databases through ORMs like **Sequelize** and **Entity Framework**.
 
 > 🎯 **My goal:** grow into a well-rounded professional who can both **analyze what a system needs** and **build it** end to end.
 
@@ -49,11 +49,12 @@ Right now I'm building **full-stack web applications** — from responsive front
 ### 🛠️ Development
 - Object-Oriented Programming &amp; clean code principles
 - **Full-stack JavaScript** development
+- Front-end with **React** (components, props, state &amp; hooks)
 - Back-end with **Node.js / Express** &amp; **C# / .NET**
 - **REST API** design, HTTP methods &amp; status codes
 - Async programming: **Promises, async/await, Fetch API**
 - ORM &amp; data access with **Sequelize** &amp; **Entity Framework**
-- **DOM** manipulation &amp; **SPA** fundamentals
+- **DOM** manipulation &amp; **SPA** architecture
 - Responsive UIs with **Bootstrap**, HTML5 &amp; CSS3
 - **SQL** queries, joins &amp; stored logic
 - Scripting with **Python** · Functional concepts with **Haskell**
@@ -90,6 +91,13 @@ Right now I'm building **full-stack web applications** — from responsive front
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
+**Front-end**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 **Back-end &amp; Frameworks**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -97,12 +105,6 @@ Right now I'm building **full-stack web applications** — from responsive front
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logoColor=white)
-
-**Front-end**
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Databases &amp; ORM**
 
@@ -140,7 +142,7 @@ Right now I'm building **full-stack web applications** — from responsive front
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[Motorcycle Sales — Database System](#)** | Relational database design for a motorcycle sales domain: ER modeling, normalization and SQL queries for the full business flow. | `SQL` `DER` `Modeling` |
-| **[Full-Stack Web App — Node.js &amp; Express](#)** | Web application with a REST API on Node.js / Express, Sequelize ORM and a responsive Bootstrap front-end following layered architecture. | `JavaScript` `Node.js` `Express` `Sequelize` |
+| **[Full-Stack Web App — React + Node.js](#)** | Single-page React front-end consuming a REST API on Node.js / Express with Sequelize ORM, following layered architecture. | `React` `Node.js` `Express` `Sequelize` |
 | **[REST API with .NET &amp; Entity Framework](#)** | Back-end API built with C# / .NET and EF, applying layered architecture and clean data access. | `C#` `.NET` `EF` `REST` |
 | **[Systems Analysis Case Study](#)** | Full analysis &amp; design of an information system: requirements, use cases and UML diagrams. | `UML` `Analysis` `Docs` |
 
@@ -150,8 +152,8 @@ Right now I'm building **full-stack web applications** — from responsive front
 
 ## 🌱 Currently Learning
 
-- Deepening **REST API architecture** with Node.js / Express &amp; .NET
-- **Single Page Applications** and modern front-end fundamentals
+- Deepening **React** patterns &amp; component architecture
+- **REST API** design with Node.js / Express &amp; .NET
 - Advanced **relational database design** and query optimization
 - Best practices in **clean code** and software design patterns
 
